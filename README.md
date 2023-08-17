@@ -43,7 +43,7 @@ We have used some of best models.
 
 
 ### Data Source:
-- [Dataset](https://drive.google.com/file/d/12gGY7WG4C2_tDHb6jI_IjTPAumHwA7Cd/view?usp=share_link) - Dataset taken from AlmaBetter
+- [Dataset](https://drive.google.com/file/d/1z4you2Cw3f9eqsXjcnIdIidgOBGgrsbQ/view?usp=sharing) - Dataset taken from AlmaBetter
 
 ### Input Files:
   <li><b>data_YesBank_StockPrices.csv</b> - It contains monthly observation of stock parameter such as open, high , low and close.</li>
@@ -110,4 +110,4 @@ Present the results of the regression analysis. Discuss the implications of the 
 
 ## :scroll: Conclusion
 
-After implementing various regression model and analyzing theri respective performance matrics we came to the conclusion that the <b>"Elastic net Regression"</b> is  top performing models with respect to all the matrics. But when we look for the cross validation score and other factores such as time complexity
+After implementing various regression model and analyzing their respective performance matrics we came to the conclusion that the <b>"Elastic net Regression"</b> is  top performing models with respect to all the matrics. But when we look for the cross validation score and other factores such as time complexity
