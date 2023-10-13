@@ -106,4 +106,4 @@ Present the results of the regression analysis. Discuss the implications of the 
 
 ## :scroll: Conclusion
 
-After implementing various regression model and analyzing their respective performance matrics we came to the conclusion that the <b>"Elastic net Regression"</b> is  top performing models with respect to all the matrics. But when we look for the cross validation score and other factores such as time complexity
+After implementing various regression model and analyzing their respective performance matrics we came to the conclusion that the <b>"KNN Regressor"</b> is  top performing models with respect to all the matrics. But when we look for the cross validation score and other factores such as time complexity
