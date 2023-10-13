@@ -39,7 +39,7 @@ to predict the stock’s closing price of the month.
 
 
 ### Data Source:
-- [Dataset](https://drive.google.com/file/d/1z4you2Cw3f9eqsXjcnIdIidgOBGgrsbQ/view?usp=sharing) - Dataset taken from AlmaBetter
+- [Dataset](https://raw.githubusercontent.com/Datawithabhishek/Yes-Bank-Stock-Closing-Price-Prediction/main/data_YesBank_StockPrices.csv) - Dataset taken from AlmaBetter
 
 ### Input Files:
   <li><b>data_YesBank_StockPrices.csv</b> - It contains monthly observation of stock parameter such as open, high , low and close.</li>
