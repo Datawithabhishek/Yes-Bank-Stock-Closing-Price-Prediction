@@ -61,7 +61,7 @@ Clean the dataset by removing any missing values, outliers, or errors. Preproces
 <hr>
 
 ### Step 3: Regression Model Building
-Divide the dataset into training and testing sets. Implement Multiple Linear Regression ,Lasso Regression, Ridge Regression and Elastic net Regression models to predict the closing price of Yes Bank stock. Tune the models by adjusting the hyperparameters to optimize performance.
+Divide the dataset into training and testing sets. Implement Multiple Linear Regression ,Lasso Regression, Ridge Regression, Elastic net Regression, knn regressor and Random forest regressor models to predict the closing price of Yes Bank stock. Tune the models by adjusting the hyperparameters to optimize performance.
 
 <hr>
 
